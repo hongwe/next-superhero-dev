@@ -1,0 +1,71 @@
+.page-fill{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.info-list{
+	padding: 0 30upx;
+}
+.info-words{
+	color:#333333;
+	font-size: 16px;
+	width: 25%;
+	line-height: 80upx;
+}
+.face{
+	width: 80upx;
+	height: 80upx;
+	border-radius: 50%;
+}
+.arrow-block{
+	margin-left: 10upx;
+	line-height: 80upx;
+}
+
+.arrow-ico{
+	width: 30upx;
+	height: 30upx;
+}
+.item-wapper{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+.face-line-upbottom{
+	margin-top: 20upx;
+	padding-top: 20upx;
+	pos-bottom: 20upx;
+	
+	
+}
+
+.line-top{}
+
+.right-wapper{
+	width: 80%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+.gray-fields{
+	font-size: 14px;
+	color: darkgray;
+	line-height: 80upx;
+}
+
+
+.foot-wapper{
+	position:fixed;
+	bottom: 0;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.foot-words{
+	text-align: center;
+	background: white;
+	padding: 20upx;
+	color: #333333;
+	font-size: 16px
+}
+
